@@ -21,6 +21,16 @@ Lruler.target = function () {
 
 ****
 
+![](https://github-readme-stats.vercel.app/api?username=Lruler)
+
+![](https://github-profile-trophy.vercel.app/?username=Lruler&rank=S,AAA,AA,A,B,C)
+
+
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=Lruler&repo=muxi-js)
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=Lruler&repo=muxi-ts)
+
 #### 𝑺𝒌𝒊𝒍𝒍
 
 | webFront-End | html ,css, javascript, typescript, React,  vue3 | [![o4p5es.png](https://s1.ax1x.com/2021/12/09/o4p5es.png)](https://imgtu.com/i/o4p5es)[![o4pOlF.png](https://s1.ax1x.com/2021/12/09/o4pOlF.png)](https://imgtu.com/i/o4pOlF)[![o4S0U0.jpg](https://s1.ax1x.com/2021/12/09/o4S0U0.jpg)](https://imgtu.com/i/o4S0U0) |
