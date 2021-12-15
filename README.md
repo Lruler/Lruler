@@ -10,7 +10,7 @@ Lruler.from = '安徽宣城'
 Lruler.university = 'Central China Normal University'
 Lruler.organization = '木犀团队'
 
-Lruler.ability = ['slack off', 'coding', 'communication with others']
+Lruler.ability = ['slack off', 'coding', 'communicating with others']
 
 Lruler.target = function () {
     setTimeout(() => {
