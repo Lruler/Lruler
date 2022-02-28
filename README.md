@@ -34,5 +34,3 @@ Lruler.target = function () {
 ****
 
 ![](https://github-readme-stats.vercel.app/api?username=Lruler)
-
-![](https://github-profile-trophy.vercel.app/?username=Lruler&rank=S,AAA,AA,A,B,C)
