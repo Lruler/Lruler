@@ -3,9 +3,13 @@
 ## *intro*
 
 💁: An ordinary college student studying the Fe;
+
 🙈: Like all interesting things, especially turning my ideas into reality;
+
 ✨: Have a great interest in visualization, but I am a rookie;
+
 💖: I hope I can go further and further down this road;
+
 💪: Liu · an optimist since childhood · Yule
 
 ## 𝑨𝒃𝒐𝒖𝒕
