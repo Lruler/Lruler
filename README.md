@@ -1,4 +1,4 @@
-# Lruler, a student from CCNU
+# *Lruler, a student from CCNU*
 
 ## 𝑨𝒃𝒐𝒖𝒕
 
